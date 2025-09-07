@@ -2,3 +2,7 @@ venv
 env
 .venv
 .env
+notebooks/artifacts
+.pycash
+rascunho.ipynb
+data
