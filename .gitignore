@@ -6,3 +6,4 @@ notebooks/artifacts
 .pycash
 rascunho.ipynb
 data
+__pycache__
