@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 import seaborn as sns
-from scipy.stats import chi2_contingency, f_oneway, kruskal, pearsonr, spearmanr
+from scipy.stats import pearsonr, spearmanr
 import math
 from IPython.display import display
 import numpy as np

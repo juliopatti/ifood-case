@@ -6,3 +6,4 @@ seaborn==0.13.2
 missingno==0.5.2
 pyarrow==21.0.0
 scikit-learn==1.7.1
+tqdm==4.67.1
